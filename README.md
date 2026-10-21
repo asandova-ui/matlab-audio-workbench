@@ -1,6 +1,6 @@
 # Audio workbench in MATLAB
 
-A desktop application for recording, visualising, processing and analysing audio, built in MATLAB App Designer for the signal processing labs of the telecommunications degree at the University of Valladolid. With Mario Medrano; his copy is at [medpar/Audio-Signal-Processing-Suite](https://github.com/medpar/Audio-Signal-Processing-Suite).
+A desktop application for recording, visualising, processing and analysing audio, built in MATLAB App Designer for the signal processing labs of the telecommunications degree at the University of Valladolid. With Mario Medrano.
 
 <p align="center">
   <img src="docs/images/interface-overview.png" width="860" alt="The application">
